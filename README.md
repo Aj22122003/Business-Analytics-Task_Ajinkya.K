@@ -160,3 +160,11 @@ Welcome to my repository showcasing my exciting internship journey at Cognifyz T
 **Key Results**:
 
 - Effectively summarized the primary outcomes that participants anticipate from their investments. ✅
+
+## 🧑‍💼 Mentor
+
+**Mentor:** Rishabh Bhardwaj
+
+---
+
+Thank you for checking out my work! 😊
